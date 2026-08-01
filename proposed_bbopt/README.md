@@ -1,7 +1,6 @@
 # proposed-bbopt
 
-Pip-installable surrogate-assisted black-box optimizer, synced with
-`BLACK_BOX_OPTIMIZATION/.../PROPOSED_ALGORITHM`:
+Pip-installable surrogate-assisted black-box optimizer:
 
 1. Fit a neural surrogate to labeled designs  
 2. Optionally grow the network (topological layer insertion)  
