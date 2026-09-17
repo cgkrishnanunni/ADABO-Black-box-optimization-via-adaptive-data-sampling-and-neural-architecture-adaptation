@@ -1,4 +1,4 @@
-# proposed-bbopt
+# Black box optimization
 
 Pip-installable surrogate-assisted black-box optimizer:
 
