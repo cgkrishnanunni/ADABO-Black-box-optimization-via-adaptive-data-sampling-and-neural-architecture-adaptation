@@ -1,3 +1,7 @@
+# DOI AND CITATION DETAILS
+
+cgkrishnanunni (2026) “cgkrishnanunni/ADABO-Black-box-optimization-via-adaptive-data-sampling-and-neural-architecture-adaptation: ADABO”. Zenodo. Available at: https://doi.org/10.5281/zenodo.22884113.
+
 # Black box optimization
 
 Pip-installable surrogate-assisted black-box optimizer:
